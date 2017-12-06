@@ -132,3 +132,20 @@ UIBezierPath *rectPath  = [UIBezierPath bezierPathWithRect:CGRectMake(-5,
 [rectPath appendPath:path];
 _rectOverlay.path = rectPath.CGPath;
 ```
+![处理后](https://github.com/mrzhao12/OpenCVAndCoreImage-CIDetector/blob/master/屏幕快照%202017-12-05%20下午4.45.54.png)
+
+![未处理的相机拍摄的](https://github.com/mrzhao12/OpenCVAndCoreImage-CIDetector/blob/master/屏幕快照%202017-12-05%20下午4.45.44.png)
+
+![opencv处理步骤](https://github.com/mrzhao12/OpenCVAndCoreImage-CIDetector/blob/master/屏幕快照%202017-12-05%20下午4.49.56.png)
+
+![opencv处理步骤](https://github.com/mrzhao12/OpenCVAndCoreImage-CIDetector/blob/master/屏幕快照%202017-12-05%20下午4.50.05.png
+)
+
+
+![opencv处理步骤](https://github.com/mrzhao12/OpenCVAndCoreImage-CIDetector/blob/master/屏幕快照%202017-12-05%20下午4.50.16.png)
+
+![苹果原生的api-coreimage处理](https://github.com/mrzhao12/OpenCVAndCoreImage-CIDetector/blob/master/6A0791E45592511D20F59ADB58EC566B.jpg)
+
+![苹果原生的api-coreimage处理](https://github.com/mrzhao12/OpenCVAndCoreImage-CIDetector/blob/master/E8F72C3BD2F43364CB85CB73DD71478F.jpg)
+
+
