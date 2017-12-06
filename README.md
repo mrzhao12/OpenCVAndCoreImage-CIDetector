@@ -85,8 +85,10 @@ opencv目前分为两个版本系列：opencv2.4.x和opencv3.x。
 
 很简单。
 pod 'OpenCV'
+
+
 /////////////////////////////////////////////////////////////////////////////////////////////
-矩形边缘检测（原生CoreImage框架下CIDetector）
+## 矩形边缘检测（原生CoreImage框架下CIDetector）
 CoreImage `下`CIDetector.h`自带了四种识别功能
 ```swift
 /* 人脸识别 */
